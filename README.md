@@ -1,7 +1,7 @@
 The project about Book Store,By dart language  
 
 In the book store the User Can
-1-Add book 2-Edit Book 3-delet book 4- Search for book 5-Buy and print bill 6-print book Information.
+1-Add book 2-Edit Book 3-delet book 4- Search for book 5-Buying books and print bill 6-print book Information.
 
 ---------------------------------------------------------------------------------
 1-Add book 
