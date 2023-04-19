@@ -1,42 +1,18 @@
-The project about Book Store,By dart language  
+#Book Store App
+This is a Dart language project for a Book Store app where the user can perform various operations such as adding, editing, and deleting books, searching for books, buying books, and printing bills.
 
-In the book store the User Can
-1-Add book 2-Edit Book 3-delet book 4- Search for book 5-Buying books and print bill 6-print book Information.
+Features
+The following features are available in this app:
 
----------------------------------------------------------------------------------
-1-Add book 
+1-Add Book: The user can add a new book by entering the book id, name, author, price, and quantity. The app checks if the book id is already used before adding the new book.
 
--Ask user Enter the id  ,Check if id (primary key)used ordey or no 
+2-Edit Book: The user can edit the information of an existing book. They can choose to edit the book id, name, author, price, or quantity. The app then prompts the user to enter the new value for the selected attribute and updates the book information in the list.
 
--If not will added by (.add) in the list after take the other information.
+3-Remove Book: The user can delete an existing book from the list by selecting the book they want to remove.
 
-2-Edit information for book 
- 
--print the books ,Ask user which book
+4-Search for Book: The user can search for a book by entering the book id, name, or author. The app then finds the book in the list and displays its information to the user.
 
--Using Switch choice (id, name, author, price, Quantity)
+5-Buy a Book: The user can buy a book by selecting the book they want to purchase and entering the quantity they want to buy. The app checks if the selected quantity is available in the stock, and if so, it prompts the user to confirm their purchase. The user can then choose to buy another book, print the bill, or exit the app.
 
--Inside case will ask for new value and update at in the list.
-
-3-Remove book
-
--print book ,keep user choice witch book
-
--Using (.removeAt())will be removed
-
-4-Search for book
-
--Ask how to search by(id, name, author) Using switch
-
--will find the book by for loop  , And Compare user Enter and books(in list) using if statemen
-
--print the book
-
-5-buy a books
-
--Print list ,Choose the book , And quantity 
-
--Cheak quantity enough 
-
--Then using do while ask if want to ,
-1-Buying anthor Book 2-print the Bill 3-Exit
+Usage
+To use this app, simply run the main.dart file and follow the prompts on the screen. The app will display a menu with all the available options. Simply select the desired option by entering the corresponding number and follow the prompts to complete the operation.
