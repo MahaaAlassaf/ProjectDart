@@ -15,5 +15,5 @@ The following features are available in this app:
 
 5-Buy a Book: The user can buy a book by selecting the book they want to purchase and entering the quantity they want to buy. The app checks if the selected quantity is available in the stock, and if so, it prompts the user to confirm their purchase. The user can then choose to buy another book, print the bill, or exit the app.
 
-Usage
+## Usage
 To use this app, simply run the main.dart file and follow the prompts on the screen. The app will display a menu with all the available options. Simply select the desired option by entering the corresponding number and follow the prompts to complete the operation.
