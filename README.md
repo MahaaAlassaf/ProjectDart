@@ -1,7 +1,7 @@
 #Book Store App
 This is a Dart language project for a Book Store app where the user can perform various operations such as adding, editing, and deleting books, searching for books, buying books, and printing bills.
 
-Features
+##Features
 The following features are available in this app:
 
 1-Add Book: The user can add a new book by entering the book id, name, author, price, and quantity. The app checks if the book id is already used before adding the new book.
